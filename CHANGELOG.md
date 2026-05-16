@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v2.0.0 (2026-05-16)
+
+### Features
+
+- Introduce a breaking change
+  ([`194eeb0`](https://github.com/matias-denatale/my-package-with-semver/commit/194eeb08657bf0f38291ce547c6ea5ce45d472bf))
+
+
 ## v1.2.0 (2026-05-16)
 
 ### Bug Fixes
